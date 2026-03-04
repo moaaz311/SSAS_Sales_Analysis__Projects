@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\Sql_BI\\Day02\\DAY2TASK2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AFF1A7-63D8-11DB-BC67-1D19C67A9DC0}|DAY2TASK2\\DAY2TASK2.dwproj|D:\\ITI\\Sql_BI\\Day02\\DAY2TASK2\\DAY2TASK2\\Sales 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E2AFF1A7-63D8-11DB-BC67-1D19C67A9DC0}|DAY2TASK2\\DAY2TASK2.dwproj|solutionrelative:DAY2TASK2\\Sales 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales 1.cube [Design]",
+              "DocumentMoniker": "D:\\ITI\\Sql_BI\\Day02\\DAY2TASK2\\DAY2TASK2\\Sales 1.cube",
+              "RelativeDocumentMoniker": "DAY2TASK2\\Sales 1.cube",
+              "ToolTip": "D:\\ITI\\Sql_BI\\Day02\\DAY2TASK2\\DAY2TASK2\\Sales 1.cube [Design]",
+              "RelativeToolTip": "DAY2TASK2\\Sales 1.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-05T19:42:59.455Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
